@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker%20(1).gif))
 
 <h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
 <h3 align="center">A passionate about combining Artificial Intelligence, Machine Learning, Quantum computing & RPA for new solutins in multiple fields, from India</h3>
