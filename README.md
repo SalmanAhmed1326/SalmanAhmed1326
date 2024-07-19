@@ -7,8 +7,8 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
-<h3 align="center">Passionate and innovative AI-ML Engineer with 1.5 years of corporate experience. Skilled in integrating technologies like AI/ML, DL, quantum computing, and cybersecurity. Adept in logical backend operations and eager to contribute to cutting-edge projects in machine learning and progressive businesses,from India</h3>
+<h1 align="center" style="color: #ff6347;">Hi 👋, I'm Salman Ahmed</h1>
+<h3 align="center" style="color: #4682b4;">Passionate and innovative AI-ML Engineer with 1.5 years of corporate experience. Skilled in integrating technologies like AI/ML, DL, quantum computing, and cybersecurity. Adept in logical backend operations and eager to contribute to cutting-edge projects in machine learning and progressive businesses, from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -21,12 +21,12 @@
 - 🤝 I’m looking for help with **Post Quantum Cryptography Algorithms**
 - 📫 How to reach me: **sh13jj2648@gmail.com** & [LinkedIn](https://www.linkedin.com/in/salman-ahmed13)
 
-<h3 align="left">Connect with Me:</h3>
+<h3 align="left" style="color: #ff6347;">Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/salman-ahmed13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages, Libraries,MLOPS Frameworks & Tools:</h3>
+<h3 align="left" style="color: #4682b4;">Languages, Libraries, MLOPS Frameworks & Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -85,11 +85,12 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a>
-    <a href="https://streamlit.io" target="_blank" rel="noreferrer">
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> 
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmanAhmed1326&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SalmanAhmed1326&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanAhmed1326&" alt="GitHub Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmanAhmed1326&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SalmanAhmed1326&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanAhmed1326&theme=radical" alt="GitHub Streak" /></p>
+
