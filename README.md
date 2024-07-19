@@ -89,7 +89,7 @@
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> 
   </a>
  <a href="https://solara.dev" target="_blank" rel="noreferrer">
-    <img src="[https://solara.dev/_static/favicon.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkir2IAmAusvHVOb8l0wxdx8UEo5ThM1w7Q&s)" alt="Solara" width="40" height="40"/>
+    <img src="https://www.solara.dev/_static/solara-logo.svg" alt="Solara" width="40" height="40"/>
   </a>
 </p>
 
