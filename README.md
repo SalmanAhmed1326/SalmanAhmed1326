@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker%20(1).gif)](https://rishavchanda.io)
-
+[![MasterHead](https://media4.giphy.com/media/nanApWpwTQGmUF5kDE/giphy.gif?cid=6c09b952b281p32kx52kk9vdnoft6rq49g0557w3s4g58p9v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Salman Ahmed</h1>
 <h3 align="center">Passionate about combining Artificial Intelligence, Machine Learning, Quantum Computing & RPA for innovative solutions across multiple fields, from India</h3>
 
