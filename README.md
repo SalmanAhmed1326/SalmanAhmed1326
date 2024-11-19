@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center" style="color: #ff6347;">Hi 👋, I'm Salman Ahmed</h1>
-<h3 align="center" style="color: #4682b4;">Passionate and innovative AI-ML Engineer with 1.5 years of corporate experience. Skilled in integrating technologies like AI/ML, DL, quantum computing, and cybersecurity. Adept in logical backend operations and eager to contribute to cutting-edge projects in machine learning and progressive businesses, from India.</h3>
+<h3 align="center" style="color: #4682b4;">Passionate and innovative AI-ML Engineer with 2 years of hands-on corporate experience. Skilled in integrating technologies like AI/ML, DL, quantum computing, and cybersecurity. Adept in logical backend operations and eager to contribute to cutting-edge projects in machine learning and progressive businesses, from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
