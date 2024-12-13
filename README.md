@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://rishavchanda.io">
-<!--     <img src="https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker%20(1).gif" alt="MasterHead 1" style="width:45%; margin-right: 5%;">
+    <img src="[https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker%20(1).gif](https://camo.githubusercontent.com/bee66c10e306055aa5637ceab5b25c21b606e6fadf5c70d33b77aac1c27c161f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f497057633968436262415076685258314a652f67697068792e676966)" alt="MasterHead 1" style="width:45%; margin-right: 5%;">
   </a>
   <a href="https://rishavchanda.io">
-    <img src="https://media4.giphy.com/media/nanApWpwTQGmUF5kDE/giphy.gif?cid=6c09b952b281p32kx52kk9vdnoft6rq49g0557w3s4g58p9v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts" alt="MasterHead 2" style="width:45%;"> -->
+    <img src="https://media4.giphy.com/media/nanApWpwTQGmUF5kDE/giphy.gif?cid=6c09b952b281p32kx52kk9vdnoft6rq49g0557w3s4g58p9v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts" alt="MasterHead 2" style="width:45%;">
   </a>
 </p>
 
