@@ -1,98 +1,124 @@
-<p align="center">
-  <a href="https://salmanahmed.io">
-    <img src="https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker%20(1).gif" alt="MasterHead 1" style="width:45%; margin-right: 5%;">
-  </a>
-  <a href="https://salmanahmed.io">
-    <img src="https://media4.giphy.com/media/nanApWpwTQGmUF5kDE/giphy.gif?cid=6c09b952b281p32kx52kk9vdnoft6rq49g0557w3s4g58p9v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts" alt="MasterHead 2" style="width:45%;">
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
 
-<h1 align="center" style="color: #ff6347;">Hi 👋, I'm Salman Ahmed</h1>
-<h3 align="center" style="color: #4682b4;">Passionate and innovative AI-ML Engineer with 2 years of hands-on corporate experience. Skilled in integrating technologies like AI/ML, DL, quantum computing, and cybersecurity. Adept in logical backend operations and eager to contribute to cutting-edge projects in machine learning and progressive businesses, from India.</h3>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salman Ahmed - Portfolio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+        h1, h3 {
+            font-weight: bold;
+        }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-fine&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+        .main-header {
+            background: linear-gradient(90deg, #ff6347, #4682b4);
+            color: white;
+            padding: 50px 0;
+            text-align: center;
+        }
 
-- 🔭 **Current Projects**:  
-  - Optimization Problem for PSP  
-  - Research with CERN on Particle Data Analysis  
-- 🌱 **Learning Focus**: Working on agentic Frame work building agents  
-- 👯 **Collaborations**: Open to research in Quantum Computing integrated with AI  
-- 🤝 **Seeking Support**: Post-Quantum Cryptography Algorithms  
-- 💬 **Ask Me About**: Agentic Framework, GenAI, AI, ML, Quantum Computing, and Deep Learning  
-- 📫 How to reach me: **sh13jj2648@gmail.com** & [LinkedIn](https://www.linkedin.com/in/salman-ahmed13)
+        .skills-section img {
+            width: 50px;
+            margin: 10px;
+            transition: transform 0.3s ease;
+        }
 
-<h3 align="left" style="color: #ff6347;">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/salman-ahmed13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+        .skills-section img:hover {
+            transform: scale(1.2);
+        }
 
-<h3 align="left" style="color: #4682b4;">Languages, Libraries, MLOPS Frameworks & Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> 
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
-  <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> 
-  </a>
-</p>
+        .profile-stats {
+            margin-top: 20px;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmanAhmed1326&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SalmanAhmed1326&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanAhmed1326&theme=radical" alt="GitHub Streak" /></p>
-\
+        .stats-container {
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 30px 0;
+        }
+
+        .stats-container img {
+            width: 350px;
+            height: auto;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        footer a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="main-header">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" class="img-fluid rounded-circle mb-3" style="width: 150px;">
+        <h1>Hi 👋, I'm Salman Ahmed</h1>
+        <h3>
+            Passionate and innovative AI-ML Engineer with 2 years of hands-on corporate experience. Skilled in integrating
+            technologies like AI/ML, DL, quantum computing, and cybersecurity.
+        </h3>
+        <a href="mailto:sh13jj2648@gmail.com" class="btn btn-light mt-3"><i class="fas fa-envelope"></i> Contact Me</a>
+    </header>
+
+    <section class="container mt-5">
+        <h2 class="text-center">About Me</h2>
+        <p class="text-center">
+            🔭 Current Projects:
+            <ul>
+                <li>Optimization Problem for PSP</li>
+                <li>Research with CERN on Particle Data Analysis</li>
+            </ul>
+            🌱 Learning Focus: Agentic Framework Building <br>
+            💬 Ask Me About: Agentic Framework, GenAI, AI/ML, Quantum Computing, and Deep Learning.
+        </p>
+    </section>
+
+    <section class="container skills-section">
+        <h2 class="text-center">Skills & Tools</h2>
+        <div class="d-flex justify-content-center flex-wrap">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+        </div>
+    </section>
+
+    <section class="container profile-stats">
+        <h2 class="text-center">Profile Stats</h2>
+        <div class="stats-container">
+            <img src="https://github-readme-stats.vercel.app/api?username=SalmanAhmed1326&show_icons=true&theme=radical" alt="GitHub Stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanAhmed1326&theme=radical" alt="GitHub Streak">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalmanAhmed1326&show_icons=true&theme=radical&layout=compact" alt="Top Languages">
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Salman Ahmed - <a href="https://linkedin.com/in/salman-ahmed13" target="_blank">Connect on LinkedIn</a></p>
+    </footer>
+</body>
+
+</html>
