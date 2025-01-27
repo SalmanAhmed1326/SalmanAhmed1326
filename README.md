@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://salmanahmed.io">
-    <img src="https://cdn.prod.website-files.com/5e9aa66fd3886aa2b4ec01ca/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker%20(1).gif" alt="MasterHead 1" style="width:45%; margin-right: 5%;">
-  </a>
-  <a href="https://salmanahmed.io">
-    <img src="https://media4.giphy.com/media/nanApWpwTQGmUF5kDE/giphy.gif?cid=6c09b952b281p32kx52kk9vdnoft6rq49g0557w3s4g58p9v&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts" alt="MasterHead 2" style="width:45%;">
-  </a>
-</p>
-
 <h1 align="center" style="color: #ff6347;">Hi 👋, I'm Salman Ahmed</h1>
 <h3 align="center" style="color: #4682b4;">Passionate and innovative AI-ML Engineer with 2 years of hands-on corporate experience. Skilled in integrating technologies like AI/ML, DL, quantum computing, and cybersecurity. Adept in logical backend operations and eager to contribute to cutting-edge projects in machine learning and progressive businesses, from India.</h3>
 
